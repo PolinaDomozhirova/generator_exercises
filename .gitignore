@@ -1,0 +1,6 @@
+.venv
+.idea
+pytest_cashe
+.DS_Store
+poetry.lock
+__pycashe__
